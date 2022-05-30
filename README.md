@@ -1,2 +1,2 @@
-# class-36
-based on multiplayer games
+# C36RV_SpeedRacer_StudentActivity
+Student Activity
